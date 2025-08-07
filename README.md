@@ -50,11 +50,11 @@
     />
   </a>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdankubytskiy&layout=compact&theme=dracula"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=bohdankubytskiy&theme=dracula"
       style="display: inline-block; vertical-align: top;"
-      alt="Top Languages"
+      alt="Contribution Graph"
     />
   </a>
 </p>
