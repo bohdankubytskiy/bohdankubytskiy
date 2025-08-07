@@ -61,8 +61,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bohdankubytskiy&theme=dracula" alt="GitHub Trophy" />
-</p>
-
 
