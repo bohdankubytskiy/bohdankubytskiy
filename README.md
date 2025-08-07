@@ -1,7 +1,15 @@
-🟥 F 🟧 U 🟨 L 🟩 L 🟦 - 🟪 S 🟥 T 🟧 A 🟨 C 🟩 K 🟦
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/F-FF0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/u-FF7F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/l-FFFF00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/l-00FF00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--00FFFF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S-0000FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/t-4B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/a-8B00FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-FF1493?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k-FF69B4?style=for-the-badge&logoColor=white"/>
+</p>
 
 ---
 
