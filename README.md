@@ -1,16 +1,14 @@
 <p align="center" style="line-height: 0;">
-  <img src="https://img.shields.io/badge/F-FF0000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/U-FF7F00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/L-FFFF00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/L-00FF00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S-0000FF?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T-4B0082?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/A-8B00FF?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-FF1493?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/K-FF69B4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FF0000?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-FF4000?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-FF8000?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-FFBF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-FFFF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-BFFF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-80FF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-40FF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+  <img src="https://img.shields.io/badge/-00FF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
 </p>
-
-
 
 ---
 
