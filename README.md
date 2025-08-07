@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/💻%20Full--stack%20Developer-FF00FF?style=for-the-badge&logo=codeigniter" alt="Full-stack Developer" />
-  <img src="https://img.shields.io/badge/🧠%20Open%20to%20Challenging%20Projects-00FFFF?style=for-the-badge&logo=git" alt="Open to Projects" />
+  <img src="https://img.shields.io/badge/💻%20Full--stack%20Developer-61DAFB?style=for-the-badge&logo=codeigniter" alt="Full-stack Developer" />
 </p>
 
 
