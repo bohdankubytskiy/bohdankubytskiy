@@ -58,11 +58,3 @@
 </p>
 
 ---
-
-## 🛰️ GitHub Skyline
-
-<p align="center">
-  <img src="./skyline_2025.gif" alt="GitHub Skyline Animation" />
-</p>
-
----
