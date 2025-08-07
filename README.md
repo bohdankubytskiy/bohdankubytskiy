@@ -1,20 +1,22 @@
 <p align="center">
-  <svg viewBox="0 0 500 100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-family="Verdana" fill="url(#rainbow)">
-      Full-stack Developer
-    </text>
+  <svg viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="rainbow" gradientTransform="rotate(90)">
-        <stop offset="0%" stop-color="#ff0000"/>
-        <stop offset="20%" stop-color="#ffa500"/>
-        <stop offset="40%" stop-color="#ffff00"/>
-        <stop offset="60%" stop-color="#00ff00"/>
-        <stop offset="80%" stop-color="#0000ff"/>
-        <stop offset="100%" stop-color="#8a2be2"/>
+        <stop offset="0%" stop-color="#FF0000"/>
+        <stop offset="20%" stop-color="#FF7F00"/>
+        <stop offset="40%" stop-color="#FFFF00"/>
+        <stop offset="60%" stop-color="#00FF00"/>
+        <stop offset="80%" stop-color="#0000FF"/>
+        <stop offset="100%" stop-color="#8B00FF"/>
       </linearGradient>
     </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="30" fill="url(#rainbow)" font-family="Segoe UI, sans-serif">
+      Full-stack Developer 🚀
+    </text>
   </svg>
 </p>
+
 
 
 ---
