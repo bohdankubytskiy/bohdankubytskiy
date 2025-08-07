@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&multiline=false&width=500&lines=💻+Full-stack+Developer;🧠+Open+to+Challenging+Projects&glow=true&glowColor=FF00FF,00FFFF,FF9900" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/💻%20Full--stack%20Developer-FF00FF?style=for-the-badge&logo=codeigniter" alt="Full-stack Developer" />
+  <img src="https://img.shields.io/badge/🧠%20Open%20to%20Challenging%20Projects-00FFFF?style=for-the-badge&logo=git" alt="Open to Projects" />
 </p>
 
 
