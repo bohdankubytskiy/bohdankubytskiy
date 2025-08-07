@@ -1,9 +1,4 @@
-<h1 align="center">Welcome 👋</h1>
-
-<p align="center">
-  💻 Full-stack Developer <br/>
-</p>
-
+<h1 align="center">💻 Full-stack Developer</h1>
 ---
 
 ## 🧰 Tech Stack
