@@ -1,18 +1,19 @@
 <p align="center">
-  <svg viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" height="80">
     <defs>
-      <linearGradient id="rainbow" gradientTransform="rotate(90)">
-        <stop offset="0%" stop-color="#FF0000"/>
-        <stop offset="20%" stop-color="#FF7F00"/>
-        <stop offset="40%" stop-color="#FFFF00"/>
-        <stop offset="60%" stop-color="#00FF00"/>
-        <stop offset="80%" stop-color="#0000FF"/>
-        <stop offset="100%" stop-color="#8B00FF"/>
+      <linearGradient id="horizontalRainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF0000" />
+        <stop offset="20%" stop-color="#FF7F00" />
+        <stop offset="40%" stop-color="#FFFF00" />
+        <stop offset="60%" stop-color="#00FF00" />
+        <stop offset="80%" stop-color="#0000FF" />
+        <stop offset="100%" stop-color="#8B00FF" />
       </linearGradient>
     </defs>
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="30" fill="url(#rainbow)" font-family="Segoe UI, sans-serif">
-      Full-stack Developer 🚀
+          font-size="36" font-weight="bold" fill="url(#horizontalRainbow)"
+          font-family="Verdana, sans-serif">
+      Full-stack Developer 🌈
     </text>
   </svg>
 </p>
