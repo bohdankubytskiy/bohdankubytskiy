@@ -1,13 +1,5 @@
-<p align="center" style="line-height: 0;">
-  <img src="https://img.shields.io/badge/-FF0000?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-FF4000?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-FF8000?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-FFBF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-FFFF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-BFFF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-80FF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-40FF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
-  <img src="https://img.shields.io/badge/-00FF00?style=flat-square&logoColor=transparent&logoWidth=10&label=" height="30" />
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="800" />
 </p>
 
 ---
