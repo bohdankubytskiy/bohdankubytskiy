@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Open+Source+Contributor;Tech+Lover&font=Fira%20Code&center=true&width=440&height=45&color=F7931E&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=
+___________    .__  .__    _________ __                 __    
+\_   _____/_ __|  | |  |  /   _____//  |______    ____ |  | __
+ |    __)|  |  \  | |  |  \_____  \\   __\__  \ _/ ___\|  |/ /
+ |     \ |  |  /  |_|  |__/        \|  |  / __ \\  \___|    < 
+ \___  / |____/|____/____/_______  /|__| (____  /\___  >__|_ \
+     \/                          \/           \/     \/     \/
+;Open+Source+Contributor;Tech+Lover&font=Fira%20Code&center=true&width=440&height=45&color=F7931E&vCenter=true&pause=1000&size=22" />
 </p>
 
 
