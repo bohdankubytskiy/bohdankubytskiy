@@ -1,4 +1,23 @@
 <p align="center">
+  <svg width="100%" height="60">
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#FF5F6D">
+          <animate attributeName="stop-color" values="#FF5F6D;#FFC371;#FF5F6D" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#FFC371">
+          <animate attributeName="stop-color" values="#FFC371;#FF5F6D;#FFC371" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="30" fill="url(#grad)" font-family="Verdana">
+      Full-stack Developer 🚀
+    </text>
+  </svg>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="800" />
 </p>
 
