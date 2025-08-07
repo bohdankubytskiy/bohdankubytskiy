@@ -45,13 +45,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=bohdankubytskiy&show_icons=true&theme=dracula"/>
   </a>
 </p>
 
-<p align="center">
+<p align="end">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdankubytskiy&layout=compact&theme=dracula"/>
   </a>
