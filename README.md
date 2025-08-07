@@ -49,12 +49,15 @@
       style="display: inline-block; vertical-align: top;"
     />
   </a>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bohdankubytskiy&layout=compact&theme=dracula](https://github-readme-activity-graph.vercel.app/graph?username=bohdankubytskiy&theme=dracula)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdankubytskiy&layout=compact&theme=dracula"
       style="display: inline-block; vertical-align: top;"
+      alt="Top Languages"
     />
   </a>
+</p>
 </p>
 
 ---
