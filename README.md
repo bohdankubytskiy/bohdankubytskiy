@@ -45,15 +45,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="start">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bohdankubytskiy&show_icons=true&theme=dracula"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdankubytskiy&layout=compact&theme=dracula"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=bohdankubytskiy&show_icons=true&theme=dracula"
+      style="display: inline-block; vertical-align: top;"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdankubytskiy&layout=compact&theme=dracula"
+      style="display: inline-block; vertical-align: top;"
+    />
   </a>
 </p>
 
