@@ -61,16 +61,7 @@
 </p>
 
 ---
-<h3 align="center">🔥 Active Contributions</h3>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bohdankubytskiy&theme=dracula&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bohdankubytskiy&theme=dracula&area=true" alt="Activity Graph" />
 </p>
 
-<h3 align="center">📌 Featured Project</h3>
-
-<p align="center">
-  <a href="https://github.com/bohdankubytskiy/my-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bohdankubytskiy&repo=my-cool-project&theme=dracula" />
-  </a>
-</p>
