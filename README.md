@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=
-___________    .__  .__    _________ __                 __    
-\_   _____/_ __|  | |  |  /   _____//  |______    ____ |  | __
- |    __)|  |  \  | |  |  \_____  \\   __\__  \ _/ ___\|  |/ /
- |     \ |  |  /  |_|  |__/        \|  |  / __ \\  \___|    < 
- \___  / |____/|____/____/_______  /|__| (____  /\___  >__|_ \
-     \/                          \/           \/     \/     \/
-;Open+Source+Contributor;Tech+Lover&font=Fira%20Code&center=true&width=440&height=45&color=F7931E&vCenter=true&pause=1000&size=22" />
+  <svg viewBox="0 0 500 100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-family="Verdana" fill="url(#rainbow)">
+      Full-stack Developer
+    </text>
+    <defs>
+      <linearGradient id="rainbow" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#ff0000"/>
+        <stop offset="20%" stop-color="#ffa500"/>
+        <stop offset="40%" stop-color="#ffff00"/>
+        <stop offset="60%" stop-color="#00ff00"/>
+        <stop offset="80%" stop-color="#0000ff"/>
+        <stop offset="100%" stop-color="#8a2be2"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%20___________    .__  .__    _________ __                 __    
-\_   _____/_ __|  | |  |  /   _____//  |______    ____ |  | __
- |    __)|  |  \  | |  |  \_____  \\   __\__  \ _/ ___\|  |/ /
- |     \ |  |  /  |_|  |__/        \|  |  / __ \\  \___|    < 
- \___  / |____/|____/____/_______  /|__| (____  /\___  >__|_ \
-     \/                          \/           \/     \/     \/-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="800" />
-</p>
 
 ---
 
