@@ -11,7 +11,12 @@ ___________    .__  .__    _________ __                 __
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="800" />
+  <img src="https://img.shields.io/badge/%20___________    .__  .__    _________ __                 __    
+\_   _____/_ __|  | |  |  /   _____//  |______    ____ |  | __
+ |    __)|  |  \  | |  |  \_____  \\   __\__  \ _/ ___\|  |/ /
+ |     \ |  |  /  |_|  |__/        \|  |  / __ \\  \___|    < 
+ \___  / |____/|____/____/_______  /|__| (____  /\___  >__|_ \
+     \/                          \/           \/     \/     \/-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="800" />
 </p>
 
 ---
