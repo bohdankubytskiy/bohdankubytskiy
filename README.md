@@ -2,8 +2,6 @@
 
 <p align="center">
   💻 Full-stack Developer <br/>
-  🧠 Passionate about building modern apps & systems <br/>
-  🎮 Sometimes crafting games for fun
 </p>
 
 ---
