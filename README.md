@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=FF4785&textColor=FF4785" alt="Full-stack Developer" />
+  <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" />
 </p>
 
 ---
