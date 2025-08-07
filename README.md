@@ -1,7 +1,7 @@
 <table align="center" style="line-height:0; font-size:0; border-collapse: collapse;">
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="400" />
+      <img src="https://img.shields.io/badge/%20Full--stack%20Developer-FF4785?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Full-stack Developer" width="800" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/-0057B7?style=flat-square&label=&logoColor=transparent" height="40" width="100" />
