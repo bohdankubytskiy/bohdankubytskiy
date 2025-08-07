@@ -1,14 +1,38 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/F-ff0000?style=for-the-badge&logoColor=ffffff&labelColor=ff4d4d"/>
-  <img src="https://img.shields.io/badge/u-ff4000?style=for-the-badge&logoColor=ffffff&labelColor=ff8533"/>
-  <img src="https://img.shields.io/badge/l-ff8000?style=for-the-badge&logoColor=ffffff&labelColor=ffb266"/>
-  <img src="https://img.shields.io/badge/l-ffbf00?style=for-the-badge&logoColor=ffffff&labelColor=ffe066"/>
-  <img src="https://img.shields.io/badge/-ffff00?style=for-the-badge&logoColor=ffffff&labelColor=ffff66"/>
-  <img src="https://img.shields.io/badge/S-80ff00?style=for-the-badge&logoColor=ffffff&labelColor=b3ff66"/>
-  <img src="https://img.shields.io/badge/t-40ff00?style=for-the-badge&logoColor=ffffff&labelColor=99ff66"/>
-  <img src="https://img.shields.io/badge/a-00ff00?style=for-the-badge&logoColor=ffffff&labelColor=66ff66"/>
-  <img src="https://img.shields.io/badge/c-00ff80?style=for-the-badge&logoColor=ffffff&labelColor=66ffb3"/>
-  <img src="https://img.shields.io/badge/k-00ffbf?style=for-the-badge&logoColor=ffffff&labelColor=66ffe0"/>
+  <!-- F -->
+  <img src="https://img.shields.io/badge/--FF0000?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--FF0000?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/F-FF0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--FF0000?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--FF0000?style=for-the-badge&logoColor=transparent"/>
+  
+  <!-- U -->
+  <img src="https://img.shields.io/badge/U-FF7F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--FF7F00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--FF7F00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/U-FF7F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--FF7F00?style=for-the-badge&logoColor=transparent"/>
+
+  <!-- L -->
+  <img src="https://img.shields.io/badge/L-FFFF00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--FFFF00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--FFFF00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--FFFF00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--FFFF00?style=for-the-badge&logoColor=transparent"/>
+
+  <!-- L -->
+  <img src="https://img.shields.io/badge/L-00FF00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--00FF00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--00FF00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--00FF00?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--00FF00?style=for-the-badge&logoColor=transparent"/>
+
+  <!-- S -->
+  <img src="https://img.shields.io/badge/S-0000FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S-0000FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/--0000FF?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/--0000FF?style=for-the-badge&logoColor=transparent"/>
+  <img src="https://img.shields.io/badge/S-0000FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
