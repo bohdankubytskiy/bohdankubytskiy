@@ -62,6 +62,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bohdankubytskiy&theme=dracula&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bohdankubytskiy&theme=dracula" alt="GitHub Trophy" />
 </p>
+
 
