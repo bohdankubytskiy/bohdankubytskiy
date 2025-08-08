@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=bohdankubytskiy&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=bohdankubytskiy&show_icons=true&theme=dracula&show=prs_merged_percentage"
       style="display: inline-block; vertical-align: top;"
     />
   </a>
